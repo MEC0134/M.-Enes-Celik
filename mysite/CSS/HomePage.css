@@ -1,0 +1,22 @@
+
+/* REMBOOKS */
+
+.NavBar {
+    background-color: #6EDCD9;
+    display: block;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    display: inline;
+    list-style-type: none;
+}
